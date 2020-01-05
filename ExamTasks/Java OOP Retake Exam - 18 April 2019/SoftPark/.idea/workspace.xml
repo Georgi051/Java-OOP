@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c5a9b6d-ef89-4228-ad3d-8c75c7e1d27f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="183" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UNDE33j7BtsArzkRrmzzhAWnH5" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RunManager" selected="JUnit.SoftParkTest.putNullValueInCurrentParkingSpotShouldThrowException">
+    <configuration name="SoftParkTest.ifCarExistInParkingException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SoftPark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="parkingSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="parkingSystem" />
+      <option name="MAIN_CLASS_NAME" value="parkingSystem.SoftParkTest" />
+      <option name="METHOD_NAME" value="ifCarExistInParkingException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SoftParkTest.ifCarNotExistInParkingException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SoftPark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="parkingSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="parkingSystem" />
+      <option name="MAIN_CLASS_NAME" value="parkingSystem.SoftParkTest" />
+      <option name="METHOD_NAME" value="ifCarNotExistInParkingException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SoftParkTest.ifCarNotExistInParkingThrowException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SoftPark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="parkingSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="parkingSystem" />
+      <option name="MAIN_CLASS_NAME" value="parkingSystem.SoftParkTest" />
+      <option name="METHOD_NAME" value="ifCarNotExistInParkingThrowException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SoftParkTest.ifTryToDeleteCollectionShouldThrowException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SoftPark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="parkingSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="parkingSystem" />
+      <option name="MAIN_CLASS_NAME" value="parkingSystem.SoftParkTest" />
+      <option name="METHOD_NAME" value="ifTryToDeleteCollectionShouldThrowException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SoftParkTest.putNullValueInCurrentParkingSpotShouldThrowException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SoftPark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="parkingSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="parkingSystem" />
+      <option name="MAIN_CLASS_NAME" value="parkingSystem.SoftParkTest" />
+      <option name="METHOD_NAME" value="putNullValueInCurrentParkingSpotShouldThrowException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SoftParkTest.putNullValueInCurrentParkingSpotShouldThrowException" />
+        <item itemvalue="JUnit.SoftParkTest.ifTryToDeleteCollectionShouldThrowException" />
+        <item itemvalue="JUnit.SoftParkTest.ifCarNotExistInParkingThrowException" />
+        <item itemvalue="JUnit.SoftParkTest.ifCarNotExistInParkingException" />
+        <item itemvalue="JUnit.SoftParkTest.ifCarExistInParkingException" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c5a9b6d-ef89-4228-ad3d-8c75c7e1d27f" name="Default Changelist" comment="" />
+      <created>1575188043512</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575188043512</updated>
+      <workItem from="1575188046503" duration="5297000" />
+      <workItem from="1575195589241" duration="696000" />
+      <workItem from="1575385598018" duration="50000" />
+      <workItem from="1575404043440" duration="8000" />
+      <workItem from="1576512649690" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SoftPark$SoftParkTest_ifCarNotExistInParkingException.ic" NAME="SoftParkTest.ifCarNotExistInParkingException Coverage Results" MODIFIED="1575192474632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>parkingSystem.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SoftPark$SoftParkTest_ifCarExistInParkingThrowException.ic" NAME="SoftParkTest.ifCarExistInParkingThrowException Coverage Results" MODIFIED="1575191486907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>parkingSystem.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SoftPark$SoftParkTest.ic" NAME="SoftParkTest Coverage Results" MODIFIED="1575192231090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>parkingSystem.*</FILTER>
+    </SUITE>
+  </component>
+</project>

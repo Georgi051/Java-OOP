@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f466e6d7-8531-4f53-a10c-16e143a124a6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="185" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UVhLUtdMp9JGGq2ZyJPNBTXX5L" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RunManager" selected="JUnit.HeroRepositoryTest">
+    <configuration name="HeroRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HeroRepository" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="heroRepository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="heroRepository" />
+      <option name="MAIN_CLASS_NAME" value="heroRepository.HeroRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeroRepositoryTest.checkForAddingInCollection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HeroRepository" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="heroRepository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="heroRepository" />
+      <option name="MAIN_CLASS_NAME" value="heroRepository.HeroRepositoryTest" />
+      <option name="METHOD_NAME" value="checkForAddingInCollection" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeroRepositoryTest.checkForCurrentCollectionSize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HeroRepository" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="heroRepository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="heroRepository" />
+      <option name="MAIN_CLASS_NAME" value="heroRepository.HeroRepositoryTest" />
+      <option name="METHOD_NAME" value="checkForCurrentCollectionSize" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeroRepositoryTest.checkForHeroWhitHighIntelligence" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HeroRepository" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="heroRepository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="heroRepository" />
+      <option name="MAIN_CLASS_NAME" value="heroRepository.HeroRepositoryTest" />
+      <option name="METHOD_NAME" value="checkForHeroWhitHighIntelligence" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeroRepositoryTest.removeHeroFromCollection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HeroRepository" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="heroRepository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="heroRepository" />
+      <option name="MAIN_CLASS_NAME" value="heroRepository.HeroRepositoryTest" />
+      <option name="METHOD_NAME" value="removeHeroFromCollection" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HeroRepositoryTest" />
+        <item itemvalue="JUnit.HeroRepositoryTest.removeHeroFromCollection" />
+        <item itemvalue="JUnit.HeroRepositoryTest.checkForAddingInCollection" />
+        <item itemvalue="JUnit.HeroRepositoryTest.checkForCurrentCollectionSize" />
+        <item itemvalue="JUnit.HeroRepositoryTest.checkForHeroWhitHighIntelligence" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f466e6d7-8531-4f53-a10c-16e143a124a6" name="Default Changelist" comment="" />
+      <created>1575447613836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575447613836</updated>
+      <workItem from="1575447615973" duration="5855000" />
+      <workItem from="1575538244714" duration="2882000" />
+      <workItem from="1576512929401" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HeroRepository$HeroRepositoryTest.ic" NAME="HeroRepositoryTest Coverage Results" MODIFIED="1575539983394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>heroRepository.*</FILTER>
+    </SUITE>
+  </component>
+</project>
